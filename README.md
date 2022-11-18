@@ -1,8 +1,10 @@
+![Logo](https://itresan.com/wp-content/uploads/2018/09/URL-Shortener-2.jpg)
+
 # کوتاه کننده لینک
 
 یک سرویس کوتاه کننده لینک با دامنه دلخواه 
 
-# نحوه اجرا : 
+## نحوه اجرا : 
 
 ابتدا تمامی فایل ها را در سرور خود آپلود کنید 
 
@@ -26,7 +28,7 @@ https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
 
 A link shortener service with a custom domain
 
-# How to run:
+## How to run:
 
 First, upload all the files to your server
 
