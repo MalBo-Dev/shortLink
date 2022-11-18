@@ -45,3 +45,18 @@ https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
 Your output will be as Jason
 
 Good luck
+
+-------------------------------------------------------------------------
+
+### ❤️Thank you Supporters - با تشکر از شما حامیان❤️
+[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/shortLink)](https://github.com/malbo-dev/shortLink/stargazers)
+## 🔗 CONTACT - ارتباط با من
+[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/monster_hp)
+
+[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/malbo.dev)
+
+
+## Warning - توجه
+
+⚠️ Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
+ Tools is built for both Educational and Internal use ONLY. ⚠️
