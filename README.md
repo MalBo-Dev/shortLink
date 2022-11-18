@@ -42,7 +42,7 @@ Example :
 
 https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
 
-Your output will be as Jason
+Your output will be as Json
 
 Good luck
 
@@ -52,7 +52,6 @@ Good luck
 [![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/malbo-dev/shortLink)](https://github.com/malbo-dev/shortLink/stargazers)
 ## 🔗 CONTACT - ارتباط با من
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/monster_hp)
-
 [![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/malbo.dev)
 
 
