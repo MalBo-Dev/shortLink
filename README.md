@@ -55,8 +55,3 @@ Good luck
 [![instagram](https://img.shields.io/badge/Channel-Telegram-blue)](https://t.me/Malbo_Dev)
 [![instagram](https://img.shields.io/badge/Channel-Youtube-red)](https://www.youtube.com/channel/UCRXB3lWiZHPwfgcXMjfUzYA)
 [![instagram](https://img.shields.io/badge/Channel-Instagram-pink)](https://instagram.com/malbo.dev)
-
-## Warning - توجه
-
-⚠️ Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
- Tools is built for both Educational and Internal use ONLY. ⚠️
